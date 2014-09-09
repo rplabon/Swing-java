@@ -10,7 +10,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Mont HTB
+ * @author Rabiul
  */
 public class Painter {
 
