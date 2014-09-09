@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Mont HTB
+ * @author Rabiul
  */
 public class ButtonFrame extends JFrame{
     private JButton plainJButton;
