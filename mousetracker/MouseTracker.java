@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Mont HTB
+ * @author Rabiul
  */
 public class MouseTracker {
 
