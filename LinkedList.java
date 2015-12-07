@@ -1,6 +1,7 @@
 package com.danielacton.datastructures;
 
 /**
+ * 
  * A linked list implementation. 
  * Operations include: add, remove (single and array), indexOf and toString.
  * 
